@@ -1,0 +1,31 @@
+/* src/styles/CVPreview.css */
+.cv-preview {
+    margin-top: 20px;
+    padding: 20px;
+    background: #ecf0f1; /* Light gray background */
+    border-radius: 8px;
+    border: 1px solid #ccc;
+  }
+  
+  .cv-preview h2 {
+    font-size: 1.5rem;
+    margin-bottom: 10px;
+    color: #2c3e50; /* Dark blue */
+  }
+  
+  .cv-preview h3 {
+    margin-top: 20px;
+    font-size: 1.2rem;
+    color: #34495e; /* Subtle dark blue */
+  }
+  
+  .cv-preview p {
+    margin: 5px 0;
+    font-size: 1rem;
+    line-height: 1.5;
+  }
+  
+  .cv-preview p strong {
+    color: #2c3e50; /* Strong color for labels */
+  }
+  
