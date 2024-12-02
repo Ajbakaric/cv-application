@@ -20,7 +20,7 @@ A simple React application where users can fill out their general information (n
 
 ## Demo
 
-[Check out the live demo here!](#) *(Replace `#` with your live project link when deployed)*
+[Check out the live demo here!]([#](https://chic-manatee-2baa3a.netlify.app/)) 
 
 ---
 
